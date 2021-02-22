@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 以下是我的开源项目总览
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=itcodes&show_icons=true&hide_border=true)
