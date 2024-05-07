@@ -27,6 +27,5 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=itcodes&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="Akira's GitHub stats" style="zoom:100%;" align="left"/></td>
-    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=852876722177533&hide_border=true" alt="优弧的掘金数据" style="zoom:100%;" align="left"/></td>
   </tr>
 </table>
