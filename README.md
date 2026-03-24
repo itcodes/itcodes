@@ -22,10 +22,3 @@ Here are some ideas to get you started:
 - ⚡ 格言: 但行好事，莫问前程. 
 
 
-### 以下是我的开源项目总览
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=itcodes&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="Akira's GitHub stats" style="zoom:100%;" align="left"/></td>
-  </tr>
-</table>
